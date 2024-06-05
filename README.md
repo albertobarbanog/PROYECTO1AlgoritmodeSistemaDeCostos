@@ -22,17 +22,17 @@ El algoritmo sigue los siguientes pasos:
 A continuación muestro el programa corriendo con los datos que estaban en los requisitos del proyecto.
 
 Ingrese el precio original del producto: (Por ejemplo 100)
-> 100
+- 100
 Ingrese el porcentaje de descuento (Por ejemplo 10):
-> 10
+- 10
 Ingrese el porcentaje de IVA (Por ejmplo 12):
-> 12
+- 12
 Ingrese la cantidad de productos: (Por ejemplo 2)
-> 2
+- 2
 Ingrese el peso del paquete (Por ejemplo 3):
-> 3
+- 3
 Ingrese el destino del envío: (Por ejemplo Nueva York)
-> Nueva York
+- Nueva York
 Precio original: 100$
 Descuento aplicado: 10%
 IVA aplicado: 12%
